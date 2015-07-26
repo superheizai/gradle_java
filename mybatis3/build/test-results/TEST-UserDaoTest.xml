@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="UserDaoTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2015-07-26T00:25:00" hostname="superheizaideMacBook-Pro.local" time="1.434">
+  <properties/>
+  <testcase name="findUserById" classname="UserDaoTest" time="1.434"/>
+  <system-out><![CDATA[08:25:01.626 [Test worker] INFO  EventLogger - 需要记录多名字是刘建刚
+08:25:01.628 [Test worker] ERROR EventLogger - 需要记录多名字是刘建刚
+08:25:01.651 [Test worker] INFO  EventLogger - User{id=1, name='刘建刚', password='123', picture='', roleId='1', addTime=Sat Jul 25 17:00:53 CST 2015, updateTime=Sat Jul 25 17:00:53 CST 2015}
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

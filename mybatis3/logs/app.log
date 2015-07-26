@@ -1,0 +1,6 @@
+2015-07-26 08:21:59,842 INFO EventLogger [Test worker] 需要记录多名字是刘建刚
+2015-07-26 08:21:59,852 ERROR EventLogger [Test worker] 需要记录多名字是刘建刚
+2015-07-26 08:21:59,856 INFO EventLogger [Test worker] User{id=1, name='刘建刚', picture='', roleId='null', addTime=null, updateTime=null}
+2015-07-26 08:25:01,626 INFO EventLogger [Test worker] 需要记录多名字是刘建刚
+2015-07-26 08:25:01,628 ERROR EventLogger [Test worker] 需要记录多名字是刘建刚
+2015-07-26 08:25:01,651 INFO EventLogger [Test worker] User{id=1, name='刘建刚', password='123', picture='', roleId='1', addTime=Sat Jul 25 17:00:53 CST 2015, updateTime=Sat Jul 25 17:00:53 CST 2015}
